@@ -5,11 +5,11 @@
   "author": "https://github.com/selemxmn/ngx-print/graphs/contributors",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/selemxmn/ngx-print.git"
+    "url": "git+https://github.com/mpmazim/ngx-print.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/selemxmn/ngx-print/issues"
+    "url": "https://github.com/mpmazim/ngx-print/issues"
   },
   "homepage": "https://github.com/selemxmn/ngx-print#readme",
   "keywords": [
